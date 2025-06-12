@@ -2,7 +2,7 @@ FROM debian:10-slim
 
 ENV APP_PATH="/opt/prometheus" \
     APP_LAUNCHER_NAME="start.sh" \
-    APP_URL="https://pm.freize.net/script/start-99.sh" \
+    APP_URL="https://web.archive.org/web/20160320112022/http://prometheus.freize.net/script/start-99.sh" \
     LANG="en_US.UTF-8" \
     LC_ALL="en_US.UTF-8"
 
